@@ -1,8 +1,8 @@
 # OSIRIS78 / OSIRIS68
 
-![osiris](https://github.com/snark013/osiris/blob/main/imgs/osiris78-2.png)
+![Osiris 78](https://github.com/snark013/osiris/blob/main/imgs/osiris78-2.png)
 
-The Osiris78 and Osiris 68 are a custom 3D printed mechanical keyboards built from scratch without the price tag often associated with one. 
+The Osiris 78 and Osiris 68 are a custom 3D printed mechanical keyboards built from scratch without the price tag often associated with one. 
 
 * Keyboard Maintainer: [Alexander Petrov](https://github.com/snark013)
 * Hardware Supported: Arduino Pro Micro / Alvaro / nRFMicro
